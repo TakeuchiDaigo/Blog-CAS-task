@@ -23,7 +23,7 @@ The versions of the softwares are:
 - LabVIEW 2015 Version 15.0.1 (32-bit)
 - LabVIEW FPGA Module (2016)
 - NI RIO Device Drivers (NI USB-6343)
-- Microsoft Visual Studio 2015
+- Microsoft Visual Studio 2013
 We used a National Instruments DIO interface board (NI USB-6343) for detecting animals' entries into the lever and side ports as well as controlling the timing of tone stimulus delivery or the LED. 
  
 2 The structure of the software codes: 
